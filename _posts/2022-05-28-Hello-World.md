@@ -1,4 +1,4 @@
-```yaml
+---
 layout: post
 read_time: true
 show_date: true
@@ -10,7 +10,7 @@ tags: [machine learning, coding, neural networks]
 author: Armando Maynez
 github:  amaynez/Perceptron/
 mathjax: yes
-```
+---
 
 
 
