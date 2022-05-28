@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Cherries
+description: A simple, beautiful, and powerful blogs for life
 url: https://ManYufei888.github.io
 avatar: /touxiang.jpeg
 paginate: 5
@@ -22,7 +22,6 @@ exclude:
   - .jekyll-cache
   - Gemfile
   - Gemfile.lock
-  - LICENSE.md
   - README.md
   - scripts/
   - not-pure-poole.gemspec
@@ -36,6 +35,7 @@ social:
   name: Songzi Vong
   links:
     - https://github.com/ManYufei888
+    - https://blog.csdn.net/myf_666
 google_site_verification: xxxxx
 lang: en
 
@@ -53,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
+  name: Yufei Man
   url: https://github.com/ManYufei888/
   email: 2022959499@qq.com
