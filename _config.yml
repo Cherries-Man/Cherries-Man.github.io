@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Cherries Man # add your name
 author-pic: MyHeadImage.jpg
-about-author: A CUGer, undergrate of CS and a lifelong learner. People need to work, study and struggle, but they also need to live, to think and to relax. So this website is a spiritual post that only for life. If you are interested in my technology learning, please go to my CSDN blog: https://blog.csdn.net/myf_666
+about-author: "A CUGer, undergrate of CS and a lifelong learner. People need to work, study and struggle, but they also need to live, to think and to relax. So this website is a spiritual post that only for life. If you are interested in my technology learning, please go to my CSDN blog: https://blog.csdn.net/myf_666"
 
 # Contact links
 email: 2022959499@qq.com # Add your Email address
