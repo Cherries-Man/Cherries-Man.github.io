@@ -75,7 +75,7 @@ sass:
 
 plugins:
   - jekyll-paginate
-  - jekyll-feed
+  ## - jekyll-feed
   - jekyll-sitemap
 
 include: [_pages]
