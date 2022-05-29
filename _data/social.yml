@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://2022959499@qq.com
+  url: mailto:2022959499@qq.com
   icon: fas fa-envelope
 - title: CSDN
-  url: https://twitter.com/vszhub
-  icon: fab fa-CSDN
+  url: https://blog.csdn.net/myf_666/
+  icon: fab fa-c
 - title: GitHub
   url: https://github.com/ManYufei888/
   icon: fab fa-github
